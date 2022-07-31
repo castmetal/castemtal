@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Michel!</h1>
 
-- 📝 I my linked [linkedin](https://www.linkedin.com/in/michel-la-guardia-castro-cto/)
+- 📝 It's my linkedin [linkedin](https://www.linkedin.com/in/michel-la-guardia-castro-cto/)
 - 📫 How to reach me **mlaguardia@gmail.com**
 
 <h2 align="left">Languages and Tools:</h3>
